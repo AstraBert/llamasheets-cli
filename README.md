@@ -3,6 +3,10 @@
 A command-line tool for parsing spreadsheet files using [LlamaSheets](https://developers.llamaindex.ai/python/cloud/llamasheets/getting_started/).  
 Supports `.xls` and `.xlsx` files, with options for advanced extraction and metadata generation.
 
+<div align="center">
+    <img src="./image.png" alt="LlamaSheets logo" width=300, height=300>
+</div>
+
 ## Installation
 
 ```bash
